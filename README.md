@@ -11,6 +11,3 @@ Simple Python TCP Multithreading chat application.
 - Can mention a client by his username
 - Client is able to see current online users
 - Added time when the message is delivered 
-- Client can choose text color for his own messages (console version)
-- Client can change his texting color (console version)
-- Cross platform
